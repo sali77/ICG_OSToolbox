@@ -8,7 +8,7 @@ If you are using this software, please cite:
 ```
 S. A. Sheikh, A. Shah, O. Levantsevych, M. Soudan, J. Alkhalaf, A. B. Rad, O. T. Inan, and G. D. Clifford.
 “An open-source automated algorithm for removal of noisy beats for accurate impedance cardiogram analysis”, 
-2020, Physiol. Meas. 41 075002 .
+2020, Physiological Measurement. 41 075002 .
 ```   
 
 <a name="intro"></a>

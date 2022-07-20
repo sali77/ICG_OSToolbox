@@ -6,9 +6,9 @@
 
 If you are using this software, please cite:
 ```
-S. A. Sheikh, A. Shah, O. Levantsevych, M. Soudan, J. Alkhalaf, A. B. Rad, O. T. Inan, and G. D. Clifford,
-2020. “An open-source automated algorithm for removal of noisy beats for accurate impedance
-cardiogram analysis,” Physiol. Meas. 41 075002 .
+S. A. Sheikh, A. Shah, O. Levantsevych, M. Soudan, J. Alkhalaf, A. B. Rad, O. T. Inan, and G. D. Clifford.
+“An open-source automated algorithm for removal of noisy beats for accurate impedance
+cardiogram analysis”, 2020, Physiol. Meas. 41 075002 .
 ```   
 
 <a name="intro"></a>
